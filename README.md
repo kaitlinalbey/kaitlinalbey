@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Kaitlin!
 
-<!--
-**kaitlinalbey/kaitlinalbey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Assignment Questions 
+
+### What are you interested in learning?
+* Interactive Websites 
+* How to incorporate art and computer science 
+* Different kinds of Art techniques 
+
+### 💻 What are you working on?
+* **Project One:** A few website designs 
+* **Project Two:** Metal smithing rings
+* **Project 3:** 3-D modeling different things such as animals, flowers, and anything else to improve my modeling skills
+
+### 🎮 What's your favorite hobby?
+* Any kind of art 
+* Reading 
+* Playing video games
+
+---
